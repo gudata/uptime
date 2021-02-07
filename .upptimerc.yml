@@ -14,7 +14,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** for Cenite.com
+  introTitle: "**Upptime** for Cenite.com"
   introMessage: Coresnet currently
   navbar:
     - title: Status
