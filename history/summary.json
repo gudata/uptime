@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.cenite.com",
     "slug": "cenite-com",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.21%",
-    "time": 750,
-    "timeDay": 415,
-    "timeWeek": 898,
-    "timeMonth": 769,
+    "time": 749,
+    "timeDay": 434,
+    "timeWeek": 873,
+    "timeMonth": 754,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2022-03-02": 38,
@@ -35,8 +35,7 @@
       "2021-04-29": 285,
       "2021-04-28": 15,
       "2021-04-27": 18,
-      "2021-04-26": 17,
-      "2021-03-14": 36
+      "2021-04-26": 17
     }
   }
 ]
