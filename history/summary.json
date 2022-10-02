@@ -2,7 +2,7 @@
   {
     "name": "Cenite.com",
     "url": "https://www.cenite.com",
-    "icon": "https://favicons.githubusercontent.com/www.cenite.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.cenite.com.ico",
     "slug": "cenite-com",
     "status": "up",
     "uptime": "99.43%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 719,
-    "timeDay": 921,
-    "timeWeek": 707,
-    "timeMonth": 617,
+    "time": 718,
+    "timeDay": 413,
+    "timeWeek": 670,
+    "timeMonth": 614,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2022-07-26": 29,
