@@ -4,7 +4,7 @@
     "url": "https://www.cenite.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cenite.com.ico",
     "slug": "cenite-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 866,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2023-01-30": 0,
       "2022-10-25": 126,
       "2022-07-26": 29,
       "2022-07-15": 17,
