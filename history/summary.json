@@ -6,17 +6,16 @@
     "slug": "cenite-com",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "75.44%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "76.77%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "99.36%",
-    "time": 853,
-    "timeDay": 686,
-    "timeWeek": 1088,
-    "timeMonth": 900,
+    "time": 852,
+    "timeDay": 693,
+    "timeWeek": 869,
+    "timeMonth": 892,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-07-01": 6,
       "2023-06-26": 923,
       "2023-06-25": 1440,
       "2023-06-24": 107,
@@ -27,8 +26,7 @@
       "2023-01-30": 39,
       "2022-10-25": 126,
       "2022-07-26": 29,
-      "2022-07-15": 17,
-      "2022-07-02": 18
+      "2022-07-15": 17
     }
   }
 ]
