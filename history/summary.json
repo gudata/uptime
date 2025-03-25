@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cenite.com.ico",
     "slug": "cenite-com",
     "status": "up",
-    "uptime": "88.35%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "55.41%",
+    "uptimeYear": "55.69%",
     "time": 745,
-    "timeDay": 709,
-    "timeWeek": 800,
-    "timeMonth": 603,
+    "timeDay": 621,
+    "timeWeek": 556,
+    "timeMonth": 609,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2025-03-17": 86,
@@ -183,8 +183,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   }
 ]
